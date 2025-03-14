@@ -131,7 +131,7 @@ Our analytical approach includes:
 
 6. **Time Series Analysis**: Using techniques such as moving averages and decomposition to understand temporal patterns.
 
-## deepseek-r1 Model for Predictions
+## Gemma3 Model for Predictions
 
 The project leverages the deepseek-r1 model, a state-of-the-art AI model for time series prediction, to forecast future water quality trends:
 
