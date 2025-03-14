@@ -1,0 +1,26 @@
+{
+    "bod5_proportion": {
+        "slope": 0.000644114661881651,
+        "intercept": 31.764051493399865,
+        "r_squared": 0.003745949132227715,
+        "p_value": 0.6281561085633776,
+        "trend_direction": "increasing",
+        "significant": false
+    },
+    "nh3n_proportion": {
+        "slope": 8.490883988261287e-05,
+        "intercept": 33.126697601952486,
+        "r_squared": 0.00025965995224849395,
+        "p_value": 0.8986219014058887,
+        "trend_direction": "increasing",
+        "significant": false
+    },
+    "ss_proportion": {
+        "slope": 0.0006695735965416439,
+        "intercept": 31.70258049242536,
+        "r_squared": 0.005385804467080886,
+        "p_value": 0.5612558087271402,
+        "trend_direction": "increasing",
+        "significant": false
+    }
+}

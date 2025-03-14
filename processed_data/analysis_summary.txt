@@ -1,0 +1,22 @@
+WATER QUALITY DATA ANALYSIS SUMMARY
+===================================
+Analysis performed on: 2025-03-12 23:11:31
+DATASET OVERVIEW
+Total records: 65
+Date range: 2000-01-01 to 2021-01-01
+TREND ANALYSIS
+BOD5 PROPORTION:
+  - Trend: Increasing
+  - Statistical significance: No
+  - R-squared: 0.0037
+  - p-value: 0.6282
+NH3N PROPORTION:
+  - Trend: Increasing
+  - Statistical significance: No
+  - R-squared: 0.0003
+  - p-value: 0.8986
+SS PROPORTION:
+  - Trend: Increasing
+  - Statistical significance: No
+  - R-squared: 0.0054
+  - p-value: 0.5613
